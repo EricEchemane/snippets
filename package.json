@@ -1,0 +1,24 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "argon2.js",
+  "scripts": {
+    "argon": "node argon2/test.js",
+    "jwt": "node jwt_auth/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricEchemane/snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricEchemane/snippets/issues"
+  },
+  "homepage": "https://github.com/EricEchemane/snippets#readme",
+  "dependencies": {
+    "argon2": "^0.28.4"
+  }
+}
